@@ -4,6 +4,7 @@ body{
     background-color:rgb(0, 0, 0) ;
     padding: 0;
     box-sizing: border-box;
+    flex-wrap: wrap;
 
 }
 .hero{
@@ -210,3 +211,108 @@ body{
     margin-top: 120px;
 
  }
+ .box-heading{
+    font-size: 50px;
+    color: white;
+    width:900px;
+    margin-top:80px;
+    margin:auto;
+    text-align: center;
+    margin-bottom: 14px;
+ }
+ .q-box{
+    border: none;
+    font-size: 25px;
+    background-color: rgba(60, 54, 54, 0.823);
+    color: white;
+    padding:10px 16px;
+    width:1220px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 7px;
+
+ }
+ .box-model{
+
+    text-align: center;
+    margin-top:70px;
+    height: 100vh;
+    width:100%;
+ }
+ .pluse{
+    font-size: 40px;
+ }
+ .lastpage{
+    margin-top:80px;
+    align-items: center;
+ }
+ .headlast{
+    color: white;
+    font-size:17px;
+    width: 100%;
+    text-align: center;
+ }
+ .last-input{
+    width: 1100px;
+    justify-content: center;
+    display: flex;
+    margin: 12px auto;
+    gap: 8px;
+ }
+ /* .align{
+    align-items: center;
+    /* width: 100%; */
+    .email{
+        background-color: rgba(15, 11, 11, 0.636);
+        color: white;
+        border:.5px solid lightgray;
+        padding:3px 17px;
+        width:500px;
+        border-radius: 5px;
+        font-size: 18px;
+        font-weight: bold;
+
+    }
+    .list{
+        color: aliceblue;
+    }
+    .faq{
+        display: flex;
+        gap: 200px;
+        color: aliceblue;
+    }
+    .whole{
+        width:1100px;
+        justify-content: center;
+        margin: 25px auto;
+        color: white;
+    }
+    .lan-btn{
+        background-color:  rgba(15, 11, 11, 0.636);
+        color: aliceblue;
+        font-size:14px;
+        font-weight: bold;
+        border: .5px solid lightgray;
+        border-radius:3px;
+        width: 160px;
+        /* align-items: center; */
+        padding: 12px 9px;
+        
+        /* justify-content: center; */
+    }
+    .lan-btn1{
+        width: 160px;
+        display: flex;
+        margin-top: 7px;
+        margin-left: 21%;
+
+    }
+    .ntflx{
+        font-size: 14px;
+        color: white;
+    }
+    .position{
+        margin-left: 21%;
+    }
