@@ -324,7 +324,7 @@
     }
 
   } 
-   @media(max-width:1519px) and (min-width:378px){
+   @media(max-width:1519px) and (min-width:401px){
     body{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     margin: 0;
@@ -655,7 +655,7 @@
     width: 100%;
     height: 60vh;
   }
-  @media(max-width:378px){
+  @media(max-width:400px){
      body{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     margin: 0;
