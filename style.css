@@ -240,7 +240,7 @@
 
     text-align: center;
     margin-top:70px;
-    height: 100vh;
+    height:90vh;
     width:100%;
  }
  .pluse{
@@ -563,7 +563,7 @@
 
     text-align: center;
     margin-top:70px;
-    height: 100vh;
+    height: 80vh;
     width:100%;
  }
  .pluse{
@@ -643,3 +643,7 @@
     }
 
   } 
+  .height-class{
+    width: 100%;
+    height: 60vh;
+  }
